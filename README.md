@@ -1,4 +1,5 @@
 # Advanced RAG Evaluation (LlamaIndex + RAGAS)
+# Javier Castro dnAI 2025
 
 This notebook runs a compact RAG evaluation loop with multiple retrieval strategies, optional reranking, and RAGAS scoring to compare retrieval/answer quality.
 
